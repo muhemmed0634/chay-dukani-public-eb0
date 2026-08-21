@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ORD-4848",
+    "fullName": "Elvin Qasımov",
+    "phone": "+994 50 712 51 01",
+    "location": "Bakı şəhəri",
+    "product": "Saf Təbii Zeytun Yağı (Soyuq Sıxım)",
+    "quantity": "2 litr",
+    "notes": "Təcili çatdırılma",
+    "status": "Yeni",
+    "createdAt": "2026-08-19T17:43:14.602Z"
+  },
+  {
+    "id": "ORD-1001",
+    "fullName": "Rəşad Əliyev",
+    "phone": "+994 50 123 45 67",
+    "location": "Bakı şəhəri",
+    "product": "Təbii Lənkəran Qara Çayı (May yığımı)",
+    "quantity": "2 kq",
+    "notes": "Nəsimi rayonuna saat 18:00-dan sonra çatdırılsın",
+    "status": "Yeni",
+    "createdAt": "2026-08-19T13:41:59.016Z"
+  },
+  {
+    "id": "ORD-1002",
+    "fullName": "Leyla Məmmədova",
+    "phone": "+994 55 987 65 43",
+    "location": "Sumqayıt şəhəri",
+    "product": "Saf Təbii Zeytun Yağı (Soyuq Sıxım)",
+    "quantity": "3 litr",
+    "notes": "Zəhmət olmasa şüşə qablaşdırmada olsun",
+    "status": "Çatdırıldı",
+    "createdAt": "2026-08-18T17:41:59.017Z"
+  }
+]

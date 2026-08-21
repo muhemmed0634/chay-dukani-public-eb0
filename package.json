@@ -1,0 +1,21 @@
+{
+  "name": "lenkeran-cayi-ve-zeytun-yagi",
+  "version": "1.0.0",
+  "description": "Təbii Lənkəran Çayı və Saf Zeytun Yağı - Fullstack E-Ticarət və Tanıtım Saytı",
+  "main": "index.js",
+  "engines": {
+    "node": "20.x"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "lenkeran-cayi",
+    "zeytun-yagi",
+    "ecommerce",
+    "vercel"
+  ],
+  "author": "Təbii Nemətlər",
+  "license": "MIT"
+}
